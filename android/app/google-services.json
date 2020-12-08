@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "933668647767",
+    "firebase_url": "https://happyoilmerchant.firebaseio.com",
+    "project_id": "happyoilmerchant",
+    "storage_bucket": "happyoilmerchant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933668647767:android:acc6c34d932e1703d2c412",
+        "android_client_info": {
+          "package_name": "com.example.happyoilmerchant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933668647767-gt1svcr4amevm98v2boceh4qpr4ols9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCioSEjWuJ0NpSzjYE6u9x5jW9tJm4tQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933668647767-gt1svcr4amevm98v2boceh4qpr4ols9h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "933668647767-7cd3f59mb563pne6qbokk89qacosf4nt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wealthvending.happyoilMerchant"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

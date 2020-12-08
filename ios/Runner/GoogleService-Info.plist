@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>933668647767-12aeiq26fu04o6mnad45amottun0cd4l.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.933668647767-12aeiq26fu04o6mnad45amottun0cd4l</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>933668647767-2g2c3nash6t5soljqjgpo6977hqmgnji.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAmUGRP96bfc_9qbbALiBHM51lr0yspLeQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>933668647767</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.happyoilmerchant</string>
+	<key>PROJECT_ID</key>
+	<string>happyoilmerchant</string>
+	<key>STORAGE_BUCKET</key>
+	<string>happyoilmerchant.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:933668647767:ios:9e0c490ea22a45b5d2c412</string>
+	<key>DATABASE_URL</key>
+	<string>https://happyoilmerchant.firebaseio.com</string>
+</dict>
+</plist>
